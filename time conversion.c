@@ -1,4 +1,3 @@
-# time-in-minutes-to-times-in-hours-and-minutes
 #include<stdio.h>
 int main()
 {
